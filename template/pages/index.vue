@@ -6,7 +6,7 @@
         {{msg}}
       </h1>
       <h2 class="subtitle">
-        My  posh Nuxt.js project demo
+        My  posh Nuxt.js project demo--byccc
       </h2>
       <nuxt-child />
     </div>
